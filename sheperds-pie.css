@@ -1,0 +1,21 @@
+
+.float-left
+{
+    float: left;
+}
+
+.float-left > img
+{   
+    width: 30%;
+    margin-right: 5%;
+}
+
+.float-left > footer
+{
+    font-style: italic;
+}
+
+h3:first-of-type
+{
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(240,240,240);
+    background-color: rgb(50,50,50);
+}
+
+img
+{
+    height: auto;
+    width: 50%;
+}
+
+li
+{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+a
+{
+    color: blueviolet;
+}
+
+a:visited
+{
+    color: cadetblue;
+}
