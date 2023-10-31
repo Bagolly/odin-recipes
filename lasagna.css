@@ -3,3 +3,22 @@ img
     height: auto;
     width: 50%;
 }
+
+.img-wrap{
+    margin-left: 30%;
+}
+
+.content
+{
+    text-align: center;
+}
+
+ul,ol{
+    display: inline-block;
+}
+
+li
+{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
