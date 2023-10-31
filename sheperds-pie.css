@@ -6,8 +6,8 @@
 
 .float-left > img
 {   
-    width: 30%;
-    margin-right: 5%;
+    width: 100%;
+    margin:auto
 }
 
 .float-left > footer
@@ -18,4 +18,22 @@
 h3:first-of-type
 {
     text-align: center;
+    margin-bottom: 70px;
+}
+
+.left, .right
+{
+ display: inline;
+}
+
+.left
+{
+    float: left;
+    margin-left: 40px;
+    width: 70%;
+}
+
+.right
+{   
+    float: auto;
 }
